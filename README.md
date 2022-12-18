@@ -8,7 +8,7 @@
 cp .env.example .env
 ```
 
-- Then update the `.env` with secrets from you Cloud Grid
+- Then update the `.env` with secrets from your Cloud Grid
 
 - Start the test by running:
 
